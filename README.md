@@ -1,2 +1,2 @@
 # WebApp_Methodology
-My own detailed methodology how to test web applications
+Detailed (I hope) methodology how to test web applications
