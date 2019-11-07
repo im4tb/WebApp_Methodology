@@ -1,0 +1,15 @@
+XSS testing is based on the response testing.
+
+It could be three main types of defence:
+1) Length limit
+2) Sanitazation
+3) Black listing.
+
+Other uncommon methods of xss:
+
+1) Trying modyfing the request method
+2) XSS via cookie
+3) Via the referrer header
+4) Span between two params (/* */)
+5) XSS via the uploaded files
+6) DOM-based: test each URL-param.
