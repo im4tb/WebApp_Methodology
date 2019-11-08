@@ -5,11 +5,17 @@ I would try to expand WAHH methodology from bugcrowd.com with some more detailed
 
 # Mapping the Application
 
+  
   Explore visible content
+  
   Consult public resources
+  
   Discover hidden content
+  
   Discover Default Content
+  
   Enumarate Identifier-Specified Functions
+  
   Test for Debug Parameters
   
 # Analyze the application
