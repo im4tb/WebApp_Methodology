@@ -21,4 +21,17 @@ I would try to expand WAHH methodology from bugcrowd.com with some more detailed
 # Analyze the application
 
   Identify Functionality
-  Identify 
+
+Identify 
+
+
+
+# Attacking Backend components
+
+  OS Injection
+  
+  Path traversal
+  
+  File inclusions
+  
+  
