@@ -66,3 +66,12 @@ GET /admin/profile --> 401
 
 GET /ADMIN/profile --> 200 
 ```
+
+
+- Try to send a wildcard(\*) instead of an ID.
+- Check through the same corresponding mobile API endpoints for the webapp, to find uuids, if you need them to complete the IDOR exploitation
+- Many times there will be endpoints to translate emails into GUID's, check for those
+- If it is a number id, be sure to test through a large amount of numbers, instead of just guessing
+- If endpoint has a name like /api/users/myinfo, check for /api/admins/myinfo
+- Replace request method with GET/POST/PUT
+
